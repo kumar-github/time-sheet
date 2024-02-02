@@ -1,1 +1,3 @@
-public class Invoice {}
+public class Invoice {
+    private int id;
+}
