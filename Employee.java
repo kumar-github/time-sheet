@@ -1,1 +1,3 @@
-public class Employee {}
+public class Employee {
+  private int id;
+}
