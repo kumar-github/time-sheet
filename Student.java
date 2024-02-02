@@ -1,1 +1,4 @@
-public class Student {}
+public class Student {
+
+  private int id;
+}
